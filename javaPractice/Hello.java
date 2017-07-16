@@ -1,8 +1,8 @@
-﻿public class hello{
+﻿public class Hello{
 
 public static void main(String args[]){
 
-System.out.println("Hello GITHUB");
+System.out.println("Hello GITHUB STS");
 
 }
 
